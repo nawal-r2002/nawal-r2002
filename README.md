@@ -1,6 +1,6 @@
 Hello. 
 
-My name is Nawal Reza and I am a Computer Science Student at Georgia Tech.
+My name is Nawal Reza and I am a B.S Computer Science Student at Georgia Tech.
 
 Graduation Year: Spring 2025
 
