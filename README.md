@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @nawal-r2002
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello. 
 
-<!---
-nawal-r2002/nawal-r2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Nawal Reza and I am a Computer Science Student at Georgia Tech.
+Graduation Year: Spring 2025
+Concentration: Intelligence and Modeling & Simulation
+
+Career Interests: Bioinformatics/Computational Biology
+
+In Progress Courses:
+- Machine Learning
+
+Completed Courses:
+- Intro to Object-Oriented Programming
+- Computer Simulation
+- Intro to Database Systems
+- Systems and Networks
+- Computer Organization and Programming
+
+Projects that I Have Done/Contributed To:
