@@ -11,6 +11,10 @@ Career Interests: Bioinformatics/Computational Biology
 In Progress Courses:
 - CS 4641 - Machine Learning
 
+Upcoming Courses (Fall 2024 Courses):
+ - CS 3600 - Intro to Artificial Intelligence
+ - CS 4476 - Intro to Computer Vision
+
 Completed Courses:
 - CS 1301 - Intro to Computing
 - CS 1331 - Intro to Object-Oriented Programming
