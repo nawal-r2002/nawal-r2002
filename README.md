@@ -32,3 +32,4 @@ Completed Courses:
 - CX 4220 - Intro to High-Performance Computing
 
 Projects that I Have Done/Contributed To:
+CS 4641 ML Project [In Progress]: https://nawal-r2002.github.io/CS4641Project/%5Cmidterm
