@@ -8,8 +8,6 @@ Concentration: Intelligence and Modeling & Simulation
 
 Career Interests: Bioinformatics/Computational Biology
 
-In Progress Courses:
-- CS 4641 - Machine Learning
 
 Upcoming Courses (Fall 2024 Courses):
  - CS 3600 - Intro to Artificial Intelligence
@@ -30,6 +28,7 @@ Completed Courses:
 - CX 4230 - Computer Simulation
 - CS 4400 - Intro to Database Systems
 - CX 4220 - Intro to High-Performance Computing
+- CS 4641 - Machine Learning
 
 Projects that I Have Done/Contributed To:
-CS 4641 ML Project [In Progress]: https://nawal-r2002.github.io/CS4641Project/%5Cmidterm
+CS 4641 ML Project: https://nawal-r2002.github.io/Cortical_Activity_Study/final/
