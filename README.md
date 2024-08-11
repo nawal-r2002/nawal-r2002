@@ -30,5 +30,5 @@ Completed Courses:
 - CX 4220 - Intro to High-Performance Computing
 - CS 4641 - Machine Learning
 
-Projects that I Have Done/Contributed To:
-CS 4641 ML Project: https://nawal-r2002.github.io/Cortical_Activity_Study/final/
+Projects that I Have Done/Contributed To: 
+- CS 4641 ML Project: https://nawal-r2002.github.io/Cortical_Activity_Study/final/
