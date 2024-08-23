@@ -8,8 +8,7 @@ Concentration: Intelligence and Modeling & Simulation
 
 Career Interests: Bioinformatics/Computational Biology
 
-
-Upcoming Courses (Fall 2024 Courses):
+Current Courses (Fall 2024 Courses):
  - CS 3600 - Intro to Artificial Intelligence
  - CS 4476 - Intro to Computer Vision
 
@@ -32,3 +31,5 @@ Completed Courses:
 
 Projects that I Have Done/Contributed To: 
 - CS 4641 ML Project: https://nawal-r2002.github.io/Cortical_Activity_Study/final/
+
+After My Coursework, I am interested in learning more about the applications of Deep Learning.
